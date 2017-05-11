@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SHARELATEX_ADMIN_EMAIL="lolada@test.com"
+SHARELATEX_ADMIN_EMAIL="kasperkls02@gmail.com"
 PORT=7000
 
 
